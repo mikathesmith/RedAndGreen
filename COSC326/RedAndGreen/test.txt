@@ -1,0 +1,7 @@
+#Pairs of numbers
+1 10
+5 15
+#This is a comment
+10 20
+100 50
+500 10
